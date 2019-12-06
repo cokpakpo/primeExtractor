@@ -1,0 +1,17 @@
+{
+  "name": "prime_extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christina Okpakpo",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.7.2",
+    "express": "^4.17.1",
+    "puppeteer": "^2.0.0"
+  }
+}
