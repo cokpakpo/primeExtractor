@@ -7,7 +7,7 @@ You can modify code to extract any type of information from any webpage
 
 Installation...
 
-1.clone or download repo https://github.com/cokpakpo/primeExtractor.git
+1. clone or download repo https://github.com/cokpakpo/primeExtractor.git
 
 2. run npm install to download packages
 
